@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Flutter",
+        "icon": "https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000"
+    },  
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
+        "name": "Integration",
+        "icon": "https://img.icons8.com/?size=100&id=21888&format=png&color=FFFFFF"
+    },
+
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Kotlin",
+        "icon": "https://img.icons8.com/color/48/000000/kotlin.png"
+    },
+
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+      
+]
